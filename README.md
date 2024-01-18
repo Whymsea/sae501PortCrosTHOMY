@@ -19,7 +19,7 @@
     - Sélectionnez la plateforme "Android" dans la liste des plateformes disponibles.
     - Si "Android" n'est pas dans la liste, cliquez sur "Switch Platform" pour le sélectionner.
 
-## Vérification ou configuration de votre projet pour la VR pour un Oculus ##
+** Vérification de votre projet pour la VR pour un Oculus **
 
 3.1 **Vérification de XR Plug-in Management :** Assurez-vous que XR Plug-in Management est correctement configuré :
     - Allez dans Edit -> Project Settings -> XR Plug-in Management.
@@ -28,7 +28,7 @@
     - Ensuite, cliquez sur Open-XR qui doit maintenant se retrouver en dessous de XR Plug-in Management dans project setting sur la gauche.
     - Dans "Interaction Profile", en cliquant sur le "+" sélectionnez le type de contrôleur que vous utilisez (si vous utilisez Oculus, cela sera "Oculus Touch Controller Profile").
 
-## ⚠️ Si XR Plug-in Management n'est pas installé, passez directement au 4.1⚠️
+**⚠️ Si XR Plug-in Management n'est pas installé, passez directement au 4.1⚠️**
 
 3.2 **Vérification de Open XR :** Assurez-vous que Open XR Management est correctement configuré :
     - Cliquer sur Open-XR qui doit maintenant se retouver en dessous de XR Plug-in Management dans project setting sur la gauche.
@@ -44,6 +44,8 @@
 3.4 **Vérification de XR Interaction Toolkit:**
     - Allez dans Window -> Package Manager -> XR Interaction Toolkit. ⚠️Vérifier que XR Interaction Toolkit soit dans la liste dans package manager sinon passé à l'étape 4.4⚠️.
     - Vérifier dans Samples puis cliquez sur import sur ce qui sont disponible pour être sur d'avoir tous les fichiers.
+
+**Configuration de votre projet pour la VR pour un Oculus**
 
 
 4.1 **Configuration de XR Plug-in Management s'il n'est pas installé :**
@@ -70,6 +72,6 @@
     - Lorsque celui-ci a été télécharger une fenêtre est suceptible de venir "XR InteractionMask Update Required", vous pouvez appuyer sur "I made a backup Go ahead".
     - Package Manager -> XR Interaction Toolkit, cliquer sur Samples puis cliquez sur import sur ce qui sont disponible pour être sur d'avoir tous les fichiers.
     
-## La Configuration étant fini vous pouvez à présent fermé Package Manager et revenir sur l'écran de votre scène ##
+** La Configuration étant fini vous pouvez à présent fermé Package Manager et revenir sur l'écran de votre scène **
 
 5. **Lancement du Jeu :** Appuyez sur le bouton "Play" dans Unity pour lancer le jeu.
