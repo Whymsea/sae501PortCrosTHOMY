@@ -27,7 +27,7 @@
     - Sélectionnez la plateforme "Android" dans la liste des plateformes disponibles.
     - Si "Android" n'est pas dans la liste, cliquez sur "Switch Platform" pour le sélectionner.
 
-** Vérification de votre projet pour la VR pour un Oculus **
+ Vérification de votre projet pour la VR pour un Oculus
 
 3.1 **Vérification de XR Plug-in Management :** Assurez-vous que XR Plug-in Management est correctement configuré :
     - Allez dans Edit -> Project Settings -> XR Plug-in Management.
@@ -89,7 +89,7 @@
 
 
     
-** La Configuration étant fini vous pouvez à présent fermé Package Manager et revenir sur l'écran de votre scène **
+La Configuration étant fini vous pouvez à présent fermé Package Manager et revenir sur l'écran de votre scène
 
 
 
